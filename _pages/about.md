@@ -22,6 +22,8 @@ If you're interested in pursuing research in health and artificial intelligence,
 ## <i class="fa fa-fw fa-rss "></i> Recent News ##
 
 <ul style="width: auto; height: 300px; overflow: auto">
+   <li><b>[Mar, 2025]</b>. <a href="https://huixin-zhan-ai.github.io//publications/">"A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics"</a> is published in <span style="background-color:#f2f2f2; padding:2px 6px; border-radius:5px; font-weight:bold;"><i>Nature Machine Intelligence</i></span>!</li>
+  <li> <b>[Mar, 2025]</b>. Invited to serve as a reviewer for ACL-2025 and Nature Scientific Reports!</li>
   <li> <b>[Jun, 2024]</b>. Invited to serve as a PC member for AAAI-2025 and a reviewer for both Machine Learning and Autonomous Agents and Multi-Agent Systems!</li>
   <li> <b>[Jan, 2024]</b>. Invited to serve as a TPC member for IJCNN-2024, and a reviewer for ACM Transactions on Human-Robot Interaction!</li>
   <li> <b>[Oct, 2023]</b>. Invited to serve as a PC member for AAAI-2024, SDM-2024, and ICKG-2023!</li>
