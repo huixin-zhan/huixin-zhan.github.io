@@ -13,7 +13,14 @@ My name is Huixin Zhan. I am currently a Postdoctoral Scientist in the Departmen
 
 I am broadly interested in machine learning, large language models, and graph neural networks, particularly their applications in text summarization, security, and privacy in both text mining and genomics data. My current research focuses on variant effect prediction using large language models, combining machine learning with genomics and biomedicine to develop predictive tools for cardiomyopathy and arrhythmia. Additionally, I explore the application of large language models to biomedical challenges, focusing on enhancing in-context learning and retrieval-augmented generation (RAG) for more effective knowledge graph-based reasoning.
 
-<span style="color:blue">I am currently on the job market, seeking opportunities in academia or industry where I can further advance my research. If you share similar interests or see potential synergies, please feel free to reach out via [email](mailto:huixin.zhan@cshs.org)!</span>
+<p style="color: red; font-weight: bold; font-size: 16px;">
+  🚨 This personal homepage under this GitHub account will no longer be actively updated, as I have graduated from TTU and will no longer have access to my TTU email. 
+  <br><br>
+  👉 To stay tuned, please visit my <a href="https://huixin-zhan-ai.github.io" target="_blank" style="color: red; text-decoration: underline; font-weight: bold;">
+    new homepage 🔗
+  </a>.
+</p>
+
 
 ### 🤖 Check Out the New PhD Program at Cedars
 
