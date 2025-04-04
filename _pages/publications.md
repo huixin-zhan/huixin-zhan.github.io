@@ -8,7 +8,7 @@ author_profile: true
 {% include base_path %}
 * <b>Publications @ Cedars-Sinai:</b>
 
- * <b>Huixin Zhan</b>, Jason H. Moore, and Zijun Frank Zhang, "A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics," in <i>Nature Machine Intelligence, 2025: 1-11.</i> [(Paper Link)](https://www.nature.com/articles/s42256-025-01016-8) [(ArXiv Version Link)](https://arxiv.org/pdf/2406.00164)
+   * <b>Huixin Zhan</b>, Jason H. Moore, and Zijun Frank Zhang, "A disease-specific language model for variant pathogenicity in cardiac and regulatory genomics," in <i>Nature Machine Intelligence, 2025: 1-11.</i> [(Paper Link)](https://www.nature.com/articles/s42256-025-01016-8) [(ArXiv Version Link)](https://arxiv.org/pdf/2406.00164)
 
 
    * <b>Huixin Zhan</b>, Ying Nian Wu, Jason H. Moore, Dennis J. Hazelett, and Zijun Frank Zhang, "Efficient and Scalable Fine-Tune of Language Models for Genome Understanding," Under 3rd round peer review at <i>Nature Communications (arXiv preprint arXiv:2402.08075). 2024.</i> [(Link)](https://arxiv.org/pdf/2402.08075)
